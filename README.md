@@ -1,2 +1,2 @@
 # Camping-Web
-upper intermediate project with html css javascript
+upper intermediate responsive project with html css javascript
